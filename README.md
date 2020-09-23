@@ -2,6 +2,7 @@
 
 A React App that is made to keep your record of your everyday task.
 <br />
+
 It is a great way to manage & get your work done by listing out the things you will do in a day & marking them as complete as you go along completing the said things.
 
 ##### Topics Covered
@@ -11,6 +12,7 @@ It is a great way to manage & get your work done by listing out the things you w
 - State Management
 - React Hooks
 - Browser Router
+- LifeCycle Methods
 - Axios
 
 ## Screenshots
